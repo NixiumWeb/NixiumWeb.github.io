@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+    <div id="player"></div>
+
+    <script>
+      function onYouTubeIframeAPIReady() {
+        var player;
+        player = new YT.Player('player', {
+          width: 1280,
+          height: 720,
+          videoId: 't3otBjVZzT0',
+          events: {
+            'onReady': onPlayerReady,
+            'onPlaybackQualityChange': onPlayerPlaybackQualityChange,
+            'onStateChange': onPlayerStateChange,
+            'onError': onPlayerError
+          }
+        });
+      }
+
+      function onPlayerReady(event) {
+        event.target.setVolume(50);
+        event.target.playVideo();
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Chamunks</title>
+ <link href="http://chamunks.github.io/atom.xml" rel="self"/>
+ <link href="http://chamunks.github.io"/>
+ <updated>2015-07-17T01:04:32-04:00</updated>
+ <id>http://chamunks.github.io</id>
+ <author>
+   <name>Chamunks</name>
+   <email>redacted@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Something-funky</title>
+   <link href="http://chamunks.github.io/music/2015/06/29/somethingfunky/"/>
+   <updated>2015-06-29T00:00:00-04:00</updated>
+   <id>http://chamunks.github.io/music/2015/06/29/somethingfunky</id>
+   <content type="html">&lt;h1 id=&quot;this-is-definitely-funky&quot;&gt;This is definitely funky.&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JasF1RABqFk&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/JasF1RABqFk/0.jpg&quot; alt=&quot;Video Label&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tep No - It's Alright</title>
+   <link href="http://chamunks.github.io/music/2015/06/25/tep-no--its-alright-feat-lizz-kellermann-nghtmre-remix/"/>
+   <updated>2015-06-25T00:00:00-04:00</updated>
+   <id>http://chamunks.github.io/music/2015/06/25/tep-no--its-alright-feat-lizz-kellermann-nghtmre-remix</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4JD6vnJghpc&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/4JD6vnJghpc/0.jpg&quot; alt=&quot;Video Label&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Past Projects</title>
+   <link href="http://chamunks.github.io/blog/2015/06/21/docker-images-and-other-bits/"/>
+   <updated>2015-06-21T00:00:00-04:00</updated>
+   <id>http://chamunks.github.io/blog/2015/06/21/docker-images-and-other-bits</id>
+   <content type="html">
+&lt;h1 id=&quot;docker&quot;&gt;Docker&lt;/h1&gt;
+&lt;p&gt;I have grown to become very adoring of docker.  I have written and committed a few things and am planning to write and contribute much more.&lt;/p&gt;
+
+&lt;h2 id=&quot;redux&quot;&gt;Redux&lt;/h2&gt;
+&lt;!-- TOC depth:6 withLinks:1 updateOnSave:1 --&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#docker&quot;&gt;Docker&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#redux&quot;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- /TOC --&gt;
+
+&lt;h2 id=&quot;containers--services&quot;&gt;Containers &amp;amp; Services&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://registry.hub.docker.com/u/chamunks/alpine-openssh/&quot;&gt;chamunks/alpine-openssh&lt;/a&gt; This container has been built on the smallest functional image available.  This container is intended to be easy to lock down and secure.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
