@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chamunks
-tagline: "https : // chamunks . github . com"
+title: Nixium.com
+tagline: "https : // nixium . com"
 ---
 
 {% include JB/setup %}
@@ -21,8 +21,8 @@ I have had a tendency to get involved in quite a few different things throughout
 <!-- /TOC -->
 
 
-## Projects I've worked and my roles
-I've worked on many MC related projects including but not limited to.
+## Projects we worked on.
+We've worked on many MC related projects including but not limited to.
 
 
   - [NixiumNetworks[retired]](http://nixium.com) a network project thats main aim was to unite many different MC projects under one redundant reverse proxy network. We also had many of our own unique content mini-games created long before the mini-games world exploded. This was when I learned how important advertising is and how much I suck at it.
@@ -34,7 +34,7 @@ I've worked on many MC related projects including but not limited to.
   - [Excelsion[ongoing]](http://excelsion.net) I helped these people leave a terrible hosting company who apparently provided DDoS protection.  Which continually blamed our ISP when I sent them the traceroute data from 3 separate datacenters from 3 vastly separate geographical locations.  To the IP's which they were selling us than charging extra for the DDoS protection which kept null routing my attempts to transfer their data away from their horrible service.  We moved into the OVH datacenter which immediately stopped all DDoS attacks and allowed us to resume providing services to the playerbase.
   - [Athion](http://athion.net) is a creative nexus for learning how to create, give and receive constructive criticism.  Learn how to use tools to accomplish goals and have fun in the process.  We have a creative BuildTeam for commission work for some of our highest skilled pupils who make it through our internship program.  Our internship program is where a student who has made it through all 4-5 levels of student ranks can apply to be able to contribute to Athion itself by building for our clients.  The internship is designed to test the reliability, skill and overall understanding of requirements and design specifications.  Its also intended to help understand who is a productive team player and who is more interested in their own goals as an individual and weed people like this out.  Since it is a BuildTeam program we don't want to recruit a bunch of poorly self motivated contributors who we have to micromanage.  
 
-## Tools that I have experience with
+## Tools that we have experience with.
 Through my time working as a project leader for many different technology intensive and highly demanding stressful situations keeping track of many moving parts I have learned how to use and abuse many tools to accomplish goals effectively and efficiently.  
 
 [SaltStack](http://saltstack.com/community/)
